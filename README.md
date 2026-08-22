@@ -13,8 +13,8 @@ The project includes AWS networking, compute resources, database infrastructure,
 ## Architecture
 
 The infrastructure follows a **2-tier architecture**:
+<img width="614" height="854" alt="2-tier-architecure" src="https://github.com/user-attachments/assets/18664a83-0e5d-4cf0-9f16-a6c67ac1dfbd" />
 
-![Architecture Diagram] (./Diagram/2-tier-architecure.gif)
 
 
 ### Application Tier
