@@ -13,7 +13,7 @@ The project includes AWS networking, compute resources, database infrastructure,
 ## Architecture
 
 The infrastructure follows a **2-tier architecture**:
-
+![Architecture Diagram] (Diagram/2-tier-architecure.gif)
 ### Application Tier
 
 * Amazon EC2 instances
