@@ -247,8 +247,18 @@ yes
 when prompted to confirm the deployment.
 
 ---
+# Lets check if is working
 
-# 🧹 Destroy Infrastructure
+## Navigate to the Load Balancer -> Scroll to the left -> Copy DNS name paste it new tab
+
+<img width="1920" height="982" alt="Load-balancer" src="https://github.com/user-attachments/assets/b9879782-e02a-4f15-b2b5-e23edb86bc5b" />
+
+<img width="1920" height="989" alt="Wedding Lite - Free Bootstrap 5 HTML Template - Brave 22-08-2026 1 30 57 PM" src="https://github.com/user-attachments/assets/4785a683-ec1f-4174-81f3-1675f02b9beb" />
+
+
+
+---
+# Destroy Infrastructure
 
 To avoid unnecessary AWS charges, destroy all resources when you are finished:
 
@@ -266,7 +276,7 @@ to confirm.
 
 ---
 
-# 🔒 Security Considerations
+# Security Considerations
 
 * Do not commit `.tfstate` files to GitHub.
 * Do not commit AWS credentials.
@@ -277,7 +287,7 @@ to confirm.
 
 ---
 
-# 📚 Key Learnings
+# Key Learnings
 
 Through this project, I gained hands-on experience with:
 
@@ -289,26 +299,6 @@ Through this project, I gained hands-on experience with:
 * SSH key management
 * Deploying multi-tier cloud infrastructure
 * Terraform workflow: `init`, `plan`, `apply`, and `destroy`
-
 ---
 
-# 👨‍💻 Author
 
-**Dhairyashil Ramesh Suryawanshi**
-
-**DevOps / Cloud Engineer**
-
-### Skills
-
-* AWS Cloud
-* Terraform
-* Linux
-* Git & GitHub
-* Docker
-* Kubernetes
-* CI/CD
-* Jenkins
-
----
-
-⭐ If you found this project useful, consider giving it a star!
